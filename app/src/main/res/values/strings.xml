@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Welcome and count</string>
+
+
+    <string name="toast_message">Welcome to my application!</string>
+
+    <string name="values">0</string>
+    <string name="count">count</string>
+
+    <string name="Welcome">welcome</string>
+</resources>
